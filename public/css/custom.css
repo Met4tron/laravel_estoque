@@ -1,0 +1,35 @@
+nav.navbar.navbar-default{
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  border-radius: 0px;
+}
+
+nav.navbar.navbar-default a {
+  color: white;
+}
+
+li p.navbar-text, a.navbar-brand {
+  color: white!important;
+  font-weight: bold;
+}
+
+
+footer.footer {
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  margin-top: 55px;
+  color: white;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  height: 15%;
+}
+
+.jumbotron {
+  text-align: center;
+}
+
+footer.footer p {
+  padding: 45px;
+  text-align: center;
+}
